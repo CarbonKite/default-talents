@@ -6,6 +6,9 @@ description: >
   via the remote employee protocol. Capable of full-stack development,
   code review, debugging, and autonomous multi-step engineering tasks.
 role: Engineer
+hosting: self
+auth_method: cli
+api_provider: anthropic
 agent_family: claude
 remote: true
 llm_model: ""
