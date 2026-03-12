@@ -34,3 +34,5 @@ talent_name/
 1. Go to Talent Market → **Add Talent**
 2. Enter this repo URL: `https://github.com/zhengxuyu/default-talents`
 3. All 7 talents will be detected and registered
+
+
