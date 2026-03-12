@@ -1,3 +1,8 @@
+---
+name: Feature Investment Advisor
+description: Guide product managers through evaluating whether to build a feature based on financial impact analysis. Use this to make data-driven prioritization decisions by assessing revenue connection (direct o
+---
+
 # Feature Investment Advisor
 
 > Type: interactive

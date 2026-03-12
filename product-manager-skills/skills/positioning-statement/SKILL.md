@@ -1,3 +1,8 @@
+---
+name: Positioning Statement
+description: Create a Geoffrey Moore-style positioning statement that clearly articulates who your product serves, what need it addresses, how it's categorized, what benefit it delivers, and how it differs from al
+---
+
 # Positioning Statement
 
 > Type: component | Theme: strategy-positioning | Time: 10-15 min

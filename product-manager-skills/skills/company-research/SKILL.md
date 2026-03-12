@@ -1,3 +1,8 @@
+---
+name: Company Research
+description: Create a comprehensive company profile that extracts executive insights, product strategy, transformation initiatives, and organizational dynamics from publicly available sources. Use this to understa
+---
+
 # Company Research
 
 > Type: component

@@ -1,3 +1,8 @@
+---
+name: Saas Economics Efficiency Metrics
+description: Determine whether your SaaS business model is fundamentally viable and capital-efficient. Use this to calculate unit economics, assess profitability, manage cash runway, and decide when to scale vs. o
+---
+
 # Saas Economics Efficiency Metrics
 
 > Type: component

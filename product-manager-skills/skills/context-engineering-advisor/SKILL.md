@@ -1,3 +1,8 @@
+---
+name: Context Engineering Advisor
+description: Guide product managers through diagnosing whether they're doing context stuffing (jamming volume without intent) or context engineering (shaping structure for attention). Use this to identify context 
+---
+
 # Context Engineering Advisor
 
 > Type: interactive | Theme: ai-agents | Time: 15-20 min

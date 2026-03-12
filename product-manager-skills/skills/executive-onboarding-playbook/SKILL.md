@@ -1,3 +1,8 @@
+---
+name: Executive Onboarding Playbook
+description: Structure the first 90 days of a VP or CPO transition as a diagnostic process, not an execution sprint. The single most common failure in senior product leadership transitions is acting before underst
+---
+
 # Executive Onboarding Playbook
 
 > Type: workflow | Theme: career-leadership | Time: 20-30 min

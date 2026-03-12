@@ -1,3 +1,8 @@
+---
+name: Press Release
+description: Create a visionary press release following Amazon's "Working Backwards" methodology to define and communicate a product or feature before building it. Use this to align stakeholders on the customer va
+---
+
 # Press Release
 
 > Type: component

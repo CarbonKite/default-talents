@@ -1,3 +1,8 @@
+---
+name: Tam Sam Som Calculator
+description: Guide product managers through calculating Total Addressable Market (TAM), Serviceable Available Market (SAM), and Serviceable Obtainable Market (SOM) for a product idea by asking adaptive, contextual
+---
+
 # Tam Sam Som Calculator
 
 > Type: interactive

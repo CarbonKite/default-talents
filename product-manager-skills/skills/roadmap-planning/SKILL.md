@@ -1,3 +1,8 @@
+---
+name: Roadmap Planning
+description: Guide product managers through strategic roadmap planning by orchestrating prioritization, epic definition, stakeholder alignment, and release sequencing skills into a structured process. Use this to 
+---
+
 # Roadmap Planning
 
 > Type: workflow | Theme: strategy-positioning | Time: 45-90 min

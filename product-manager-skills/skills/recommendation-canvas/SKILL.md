@@ -1,3 +1,8 @@
+---
+name: Recommendation Canvas
+description: Evaluate and propose AI product solutions using a structured canvas that assesses business outcomes, customer outcomes, problem framing, solution hypotheses, positioning, risks, and value justificatio
+---
+
 # Recommendation Canvas
 
 > Type: component

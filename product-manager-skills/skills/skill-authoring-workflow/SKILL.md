@@ -1,3 +1,8 @@
+---
+name: Skill Authoring Workflow
+description: Create or update PM skills without chaos. This workflow turns rough notes, workshop content, or half-baked prompt dumps into compliant `skills/<skill-name>/SKILL.md` assets that actually pass validati
+---
+
 # Skill Authoring Workflow
 
 > Type: workflow

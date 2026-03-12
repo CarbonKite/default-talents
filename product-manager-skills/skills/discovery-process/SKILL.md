@@ -1,3 +1,8 @@
+---
+name: Discovery Process
+description: Guide product managers through a complete discovery cycle—from initial problem hypothesis to validated solution—by orchestrating problem framing, customer interviews, synthesis, and experimentatio
+---
+
 # Discovery Process
 
 > Type: workflow | Theme: discovery-research | Time: 30-60 min

@@ -1,3 +1,8 @@
+---
+name: Proto Persona
+description: Create an initial, assumption-based persona profile that synthesizes available user research, market data, and stakeholder knowledge into a working hypothesis about your target user. Use this to align
+---
+
 # Proto Persona
 
 > Type: component

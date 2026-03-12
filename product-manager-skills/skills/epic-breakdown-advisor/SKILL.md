@@ -1,3 +1,8 @@
+---
+name: Epic Breakdown Advisor
+description: Guide product managers through breaking down epics into user stories using Richard Lawrence's complete Humanizing Work methodology—a systematic, flowchart-driven approach that applies 9 splitting pa
+---
+
 # Epic Breakdown Advisor
 
 > Type: interactive

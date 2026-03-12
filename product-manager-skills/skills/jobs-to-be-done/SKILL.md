@@ -1,3 +1,8 @@
+---
+name: Jobs To Be Done
+description: Systematically explore what customers are trying to accomplish (functional, social, emotional jobs), the pains they experience, and the gains they seek. Use this framework to uncover unmet needs, vali
+---
+
 # Jobs To Be Done
 
 > Type: component

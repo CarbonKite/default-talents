@@ -1,3 +1,8 @@
+---
+name: Problem Statement
+description: Articulate a problem from the user's perspective using an empathy-driven framework that captures who they are, what they're trying to do, what's blocking them, why, and how it makes them feel. Use thi
+---
+
 # Problem Statement
 
 > Type: component

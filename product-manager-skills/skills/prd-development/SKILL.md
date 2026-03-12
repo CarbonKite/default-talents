@@ -1,3 +1,8 @@
+---
+name: Prd Development
+description: Guide product managers through structured PRD (Product Requirements Document) creation by orchestrating problem framing, user research synthesis, solution definition, and success criteria into a cohes
+---
+
 # Prd Development
 
 > Type: workflow | Theme: pm-artifacts | Time: 60-120 min

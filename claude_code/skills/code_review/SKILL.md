@@ -1,3 +1,8 @@
+---
+name: Code Review
+description: Review code for correctness, style, security vulnerabilities, and potential issues.
+---
+
 # Code Review
 
 Ability to review code for correctness, style, and potential issues.

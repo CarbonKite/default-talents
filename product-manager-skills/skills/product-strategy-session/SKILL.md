@@ -1,3 +1,8 @@
+---
+name: Product Strategy Session
+description: Guide product managers through a comprehensive product strategy session by orchestrating positioning, problem framing, customer discovery, and roadmap planning skills into a cohesive end-to-end proces
+---
+
 # Product Strategy Session
 
 > Type: workflow

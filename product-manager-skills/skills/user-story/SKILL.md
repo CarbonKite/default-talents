@@ -1,3 +1,8 @@
+---
+name: User Story
+description: Create clear, concise user stories that combine Mike Cohn's user story format with Gherkin-style acceptance criteria. Use this to translate user needs into actionable development work that focuses on 
+---
+
 # User Story
 
 > Type: component | Theme: pm-artifacts | Time: 5-10 min

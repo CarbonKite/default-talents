@@ -1,3 +1,8 @@
+---
+name: Autonomous Coding
+description: Full-stack software engineering via Claude Code CLI session with self-correction.
+---
+
 # Autonomous Coding
 
 Full-stack software engineering via Claude Code CLI session.

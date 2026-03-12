@@ -1,3 +1,8 @@
+---
+name: Pestel Analysis
+description: Conduct a systematic analysis of macro-environmental factors—Political, Economic, Social, Technological, Environmental, and Legal—that could impact your product or project. Use this to identify ex
+---
+
 # Pestel Analysis
 
 > Type: component

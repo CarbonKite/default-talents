@@ -1,3 +1,8 @@
+---
+name: Epic Hypothesis
+description: Frame epics as testable hypotheses using an if/then structure that articulates the action or solution, the target beneficiary, the expected outcome, and how you'll validate success. Use this to manage
+---
+
 # Epic Hypothesis
 
 > Type: component

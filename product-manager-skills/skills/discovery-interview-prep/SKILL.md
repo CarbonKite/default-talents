@@ -1,3 +1,8 @@
+---
+name: Discovery Interview Prep
+description: Guide product managers through preparing for customer discovery interviews by asking adaptive questions about research goals, customer segments, constraints, and methodologies. Use this to design effe
+---
+
 # Discovery Interview Prep
 
 > Type: interactive | Theme: discovery-research | Time: 15-20 min

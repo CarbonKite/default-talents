@@ -1,3 +1,8 @@
+---
+name: Vp Cpo Readiness Advisor
+description: Guide Directors and senior product leaders through the specific challenges of the transition to VP or CPO using adaptive questions and targeted coaching. Diagnoses where you are in the journey and del
+---
+
 # Vp Cpo Readiness Advisor
 
 > Type: interactive | Theme: career-leadership | Time: 15-20 min

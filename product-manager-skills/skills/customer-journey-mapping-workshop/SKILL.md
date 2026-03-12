@@ -1,3 +1,8 @@
+---
+name: Customer Journey Mapping Workshop
+description: Guide product managers through creating a customer journey map by asking adaptive questions about the actor (persona), scenario/goal, journey phases, actions/emotions, and opportunities for improvemen
+---
+
 # Customer Journey Mapping Workshop
 
 > Type: interactive

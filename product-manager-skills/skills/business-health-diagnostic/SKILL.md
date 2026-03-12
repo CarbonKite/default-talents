@@ -1,3 +1,8 @@
+---
+name: Business Health Diagnostic
+description: Diagnose overall SaaS business health by analyzing growth, retention, unit economics, and capital efficiency metrics together. Use this to identify problems early, prioritize actions by urgency, and d
+---
+
 # Business Health Diagnostic
 
 > Type: interactive | Theme: finance-metrics | Time: 20-30 min

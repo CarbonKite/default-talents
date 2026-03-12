@@ -1,3 +1,8 @@
+---
+name: Pol Probe
+description: Define and document a Proof of Life (PoL) probe—a lightweight, disposable validation artifact designed to surface harsh truths before expensive development. Use this when you need to eliminate a spe
+---
+
 # Pol Probe
 
 > Type: component

@@ -1,3 +1,8 @@
+---
+name: Prioritization Advisor
+description: Guide product managers in choosing the right prioritization framework by asking adaptive questions about product stage, team context, decision-making needs, and stakeholder dynamics. Use this to avoid
+---
+
 # Prioritization Advisor
 
 > Type: interactive

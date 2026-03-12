@@ -1,3 +1,8 @@
+---
+name: Ai Shaped Readiness Advisor
+description: Assess whether your product work is "AI-first" (using AI to automate existing tasks faster) or "AI-shaped" (fundamentally redesigning how product teams operate around AI capabilities). Use this to eva
+---
+
 # Ai Shaped Readiness Advisor
 
 > Type: interactive | Theme: ai-agents | Time: 15-20 min

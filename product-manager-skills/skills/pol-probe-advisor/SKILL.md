@@ -1,3 +1,8 @@
+---
+name: Pol Probe Advisor
+description: Guide product managers through selecting the right Proof of Life (PoL) probe type (of 5 flavors) based on their hypothesis, risk, and available resources. Use this when you need to eliminate a specifi
+---
+
 # Pol Probe Advisor
 
 > Type: interactive

@@ -1,3 +1,8 @@
+---
+name: Altitude Horizon Framework
+description: Defines the two-axis mental model that distinguishes Director-level thinking from PM thinking: Altitude (how wide you zoom out) and Horizon (how far ahead you look). Use this to understand what actual
+---
+
 # Altitude Horizon Framework
 
 > Type: component | Theme: career-leadership | Time: 10-15 min

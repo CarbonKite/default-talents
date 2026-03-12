@@ -1,3 +1,8 @@
+---
+name: Customer Journey Map
+description: Create a comprehensive customer journey map that visualizes how customers interact with your brand across all stages—from awareness to loyalty—documenting their actions, touchpoints, emotions, KPI
+---
+
 # Customer Journey Map
 
 > Type: component | Theme: workshops-facilitation | Time: 20-30 min

@@ -1,3 +1,8 @@
+---
+name: Saas Revenue Growth Metrics
+description: Master revenue and retention metrics to understand SaaS business momentum, evaluate product-market fit, and make data-driven decisions about growth investments. Use this to calculate key metrics, inte
+---
+
 # Saas Revenue Growth Metrics
 
 > Type: component | Theme: finance-metrics | Time: 10-15 min

@@ -1,3 +1,8 @@
+---
+name: Workshop Facilitation
+description: Provide the canonical facilitation pattern for interactive skills: one step at a time, with clear progress, adaptive recommendations at decision points, and predictable interruption handling.
+---
+
 # Workshop Facilitation
 
 > Type: interactive | Theme: workshops-facilitation | Time: varies by workshop

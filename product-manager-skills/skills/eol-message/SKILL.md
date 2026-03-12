@@ -1,3 +1,8 @@
+---
+name: Eol Message
+description: Craft a clear, empathetic End-of-Life (EOL) message that communicates product or feature discontinuation, explains the rationale, addresses customer impact, provides transition support, and positions 
+---
+
 # Eol Message
 
 > Type: component

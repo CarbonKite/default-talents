@@ -1,3 +1,8 @@
+---
+name: Acquisition Channel Advisor
+description: Guide product managers through evaluating whether to scale, test, or kill an acquisition channel based on unit economics (CAC, LTV, payback), customer quality (retention, NRR), and scalability (magic 
+---
+
 # Acquisition Channel Advisor
 
 > Type: interactive

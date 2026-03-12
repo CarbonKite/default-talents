@@ -1,3 +1,8 @@
+---
+name: Finance Based Pricing Advisor
+description: Evaluate the financial impact of pricing changes (price increases, new tiers, add-ons, discounts) using ARPU/ARPA analysis, conversion impact, churn risk, NRR effects, and CAC payback implications. Us
+---
+
 # Finance Based Pricing Advisor
 
 > Type: interactive

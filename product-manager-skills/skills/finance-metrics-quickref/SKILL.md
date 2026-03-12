@@ -1,3 +1,8 @@
+---
+name: Finance Metrics Quickref
+description: Quick reference for any SaaS finance metric without deep teaching. Use this when you need a fast formula lookup, benchmark check, or decision framework reminder. For detailed explanations, calculation
+---
+
 # Finance Metrics Quickref
 
 > Type: component

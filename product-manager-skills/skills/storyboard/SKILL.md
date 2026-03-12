@@ -1,3 +1,8 @@
+---
+name: Storyboard
+description: Create a 6-frame visual narrative that tells the story of a user's journey from problem to solution, using the classic storytelling arc to build empathy, illustrate value, and make abstract product co
+---
+
 # Storyboard
 
 > Type: component

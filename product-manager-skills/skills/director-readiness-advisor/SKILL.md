@@ -1,3 +1,8 @@
+---
+name: Director Readiness Advisor
+description: Guide PMs and Directors through the specific challenges of the PM-to-Director transition using adaptive questions and targeted coaching. Diagnoses where you are in the journey and delivers practical, 
+---
+
 # Director Readiness Advisor
 
 > Type: interactive | Theme: career-leadership | Time: 10-15 min

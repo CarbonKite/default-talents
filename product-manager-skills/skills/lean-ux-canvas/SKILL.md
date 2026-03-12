@@ -1,3 +1,8 @@
+---
+name: Lean Ux Canvas
+description: Guide product managers through creating Jeff Gothelf's Lean UX Canvas (v2)—a one-page facilitation tool that frames work around a business problem to solve, not a solution to implement. Use this to 
+---
+
 # Lean Ux Canvas
 
 > Type: interactive
